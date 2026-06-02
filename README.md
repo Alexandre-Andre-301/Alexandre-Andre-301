@@ -1,40 +1,59 @@
 # 0xAlexandre André 🛡️
 
-### Desenvolvedor Fullstack | Aspirante a Pentester | Estudante de TI
+### Fullstack Developer & Cyber Security Intern
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Construindo+aplica%C3%A7%C3%B5es+web+seguras;Explorando+ethical+hacking;Desenvolvedor+Python+%26+JavaScript)
-
----
-
-### 💻 Sobre Mim
-- 🎓 Estudante de TI focado em Gestão de Sistemas Informáticos (Luanda, Angola).
-- 🔐 Forte interesse em cibersegurança, especialmente segurança web e ethical hacking.
-- 🛠️ Desenvolvendo projetos práticos para compreender como os sistemas funcionam — e como podem ser protegidos.
-- 🐧 Utilizador de Linux (Mint) e aprendiz contínuo.
-
----
-
-### 🛠️ Tecnologias
-- **Linguagens:** Python, JavaScript, HTML, CSS, SQL  
-- **Ferramentas:** Flask, Git, GitHub, SQLite  
-- **Atualmente a aprender:** conceitos de segurança, vulnerabilidades web e arquitetura de sistemas  
-
----
-
-### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Andre-301&show_icons=true&theme=dracula&hide_border=true&title_color=a855f7&icon_color=a855f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Andre-301&layout=compact&theme=dracula&hide_border=true&title_color=a855f7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&width=500&lines=System+Breaker.+System+Builder.;Web+Pentesting+%26+Research;Python+%26+JavaScript+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛰️ Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/alexandre-andr%C3%A9-058044294/
-- 🌐 Portfólio: https://alexandre-andre-301.github.io/Meu-Portifolio/
-- 📩 Email: alexandresjandre301@gmail.com
+### 💻 Profile
+```🎯 Status: Estagiando como Pentester em ambientes de desenvolvimento real.```
+
+- 🎓 **Educação:** Estudante de Gestão de Sistemas de Informação (Luanda, Angola).
+- ⚡ **Foco:** Desenvolvimento focado em arquiteturas seguras e análise de vulnerabilidades web (OWASP Top 10).
+- 🛠️ **Filosofia:** Para proteger um sistema, primeiro precisas de saber como construí-lo e, depois, como quebrá-lo.
+- 🐧 **OS:** Operando e automatizando tarefas em ambiente **Xubuntu / Linux**.
 
 ---
 
-### ⚡ Mentalidade
-> “Foco-me em compreender como os sistemas funcionam, como falham e como podem ser protegidos.”
+### 🛡️ Cyber Security & Tech Stack
+
+#### ⚔️ Offensive & Defensive Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Web_Hacking-A855F7?style=for-the-badge&logo=protools&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🏗️ Fullstack Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Andre-301&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=9ece6a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Andre-301&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=9ece6a" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-Andre-301&theme=tokyonight&hide_border=true&stroke=a855f7&background=1a1b26&ring=a855f7&fire=a855f7" height="180em" />
+</p>
+
+---
+
+### 🛰️ Connect with the Terminal
+- 💼 **LinkedIn:** [alexandre-andré](https://www.linkedin.com/in/alexandre-andr%C3%A9-058044294/)
+- 🌐 **Portfolio:** [alexandre-andre-301.github.io](https://alexandre-andre-301.github.io/Meu-Portifolio/)
+- 📩 **Secure Email:** [alexandresjandre301@gmail.com](mailto:alexandresjandre301@gmail.com)
+
+---
+
+### ⚡ Threat Intel
+> *"Foco-me em compreender como os sistemas funcionam, como falham e como podem ser protegidos de forma séria."*
