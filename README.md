@@ -55,11 +55,11 @@
 ---
 
 ### 🛰️ Connect with the Terminal
-```bash
-# Executa um dos canais abaixo para estabelecer o handshake:
-### 💻 Profile
 
-http://googleusercontent.com/immersive_entry_chip/0
+# Executa um dos canais abaixo para estabelecer o handshake:
+💻 Profile
+
+
 - 💼 **LinkedIn:** [alexandre-andré](https://www.linkedin.com/in/alexandre-andr%C3%A9-058044294/)
 - 🌐 **Portfolio:** [alexandre-andre-301.github.io](https://alexandre-andre-301.github.io/Meu-Portifolio/)
 - 📩 **Secure Email:** [alexandresjandre301@gmail.com](mailto:alexandresjandre301@gmail.com)
